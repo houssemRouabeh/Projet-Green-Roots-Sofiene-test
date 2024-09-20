@@ -1,0 +1,1 @@
+{"mappings":"AAEA;;;;;;AAMA","sources":["public/scss/styles.scss"],"sourcesContent":["$primary-color: #88af7a;\r\n\r\nbody {\r\n  font-family: Arial, sans-serif;\r\n  background-color: #e035a7;\r\n  color: $primary-color;\r\n}\r\n\r\nh1 {\r\n  text-align: center;\r\n}\r\n"],"names":[],"version":3,"file":"styles.css.map","sourceRoot":"../../"}
